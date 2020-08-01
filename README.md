@@ -1,23 +1,24 @@
 # RogueItemTracker
 ### Why?
-I'm a college student powerlifter who as many people during COVID-19 was
-unable to access the gym. As a result, I decided to create a home gym and to do
-that I needed some gym equipment. However, many sites were out of stock, especially
-Rogue, my favorite fitness company. As a result, I decided to create this bot
-to update myself whenever an equipment is back in stock. I encountered a community
-on reddit r/homegym where other users faced the same problem and I decided this would
-be a great tool to help others just like me.
+Johnnie was a college student who recently graduated.  As a college grad and powerlifter he was frustrated 
+that he was unable to access the gym. As a result, in his free time Johnnie worked quickly to create a home gym and to do
+that he needed some gym equipment. 
 
-### Donate
-Has this project helped you? Consider donating!
+However, many sites were out of stock, especially out of 
+ROGUE products, his favorite fitness company. 
 
-[Donate!](https://paypal.me/roguestockbot)
+As a result, Johnie decided to create this bot
+to update himself whenever an equipment is back 
+in stock. 
 
-### What?
-* Search for your favorite Rogue Fitness equipment
-* Get notified whenever items are back in stock through FB messenger
-* Limit of 10 items
-* Checks items every 30 seconds
+He encountered a community on reddit r/homegym
+ where other users faced the same problem and 
+he decided this would be a great tool to help 
+others just like him.
+Please use Johnny main branch to donate.  
+
+This is a special branch for testing only.
+
 
 ![result](/views/images/home-demo.png)
 
